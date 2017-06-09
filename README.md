@@ -1,2 +1,2 @@
-# sprapp
-Connecting NGOs with DEVs
+# [ SPR-APP ]
+Connecting `NGOs` with `DEVs`
